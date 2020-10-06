@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="FIG@StVOq~H(@UcD6X]}" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="nYgP+E.~59_`5*KcX`]z"><value name="text"><shadow type="text" id="0adP7S`h~/ir?T+C?9.c"><field name="TEXT">Hello Worl!</field></shadow></value></block></statement></block></xml>
